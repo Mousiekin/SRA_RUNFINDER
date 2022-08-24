@@ -1,8 +1,8 @@
-# SRA Retrieval Helper
+# SRA_RUNFINDER
 
 A GUI to make it easier to search the Sequence Read Archive (SRA) https://www.ncbi.nlm.nih.gov/sra for *A. fumigatus* sequence runs
 
-![SRA_Retrieval_Helper](./images/DataSearch.png)
+![SRA_RUNFINDER](./images/DataSearch.png)
 
 
 
